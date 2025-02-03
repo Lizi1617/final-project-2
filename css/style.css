@@ -1,0 +1,14 @@
+.container {
+    max-width: (100% 1440px);
+    margin: auto;
+}
+
+:root {
+    --header-bg-color: #402101;
+    --footer-bg-color: #402101;
+    --footer-text-color: #fff;
+}
+
+header{
+    background-color: var(--header-bg-color);
+}
